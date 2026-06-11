@@ -15,11 +15,11 @@
 
 [[main]]
     name = 'Sunk Robotics'
-    pageRef = 'https://www.sunkrobotics.com/'
+    url = 'https://www.sunkrobotics.com/'
     weight = 40
 
 [[main]]
     name = 'MVTHS Engineering'
-    pageRef = 'https://mvthsengineering.com/'
+    url = 'https://mvthsengineering.com/'
     weight = 50
 

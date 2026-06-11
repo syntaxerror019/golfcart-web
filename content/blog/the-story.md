@@ -1,17 +1,17 @@
 +++
 date = '2025-09-10T16:17:57+08:00'
 draft = false
-title = 'Hugo Theme Walden'
-categories = 'Hugo'
-tags =['Hugo']
+title = 'The Story'
+categories = 'Ford Think Neighbor'
+tags =['']
 series = 'headline'
 [params]
-    author = 'Homecat'
-    thumbnail = 'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/bb/91/0c/walden-pond-is-an-idyllic.jpg?w=1200&h=-1&s=1'
-    headline = 'https://pic1.imgdb.cn/item/68c1375458cb8da5c8976e83.jpg'
+    author = 'Miles Hilliard & Jonas Wirz'
+    thumbnail = 'https://assets.sunkrobotics.com/static/golfcart.sunkrobotics.com/head.jpeg'
+    headline = 'https://assets.sunkrobotics.com/static/golfcart.sunkrobotics.com/head.jpeg'
 +++
 
-After reading <i><b>Walden</b></i>, a collection of essays by American writer Henry David Thoreau, I was deeply influenced by his love of nature and simple living. So, I wrote this concise and clear theme for my personal website and named it Walden.
+An ongoing project in the MVTHS Robotics & Engineering shop is this Ford Think Neighbor. Three of these non-functional vehicles were donated to our shop and sat outside for 20+ years. The generational goal has been to make them fully autonomous...
 
 <!--more-->
 

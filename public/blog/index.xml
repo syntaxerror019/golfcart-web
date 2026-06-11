@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Blog on MVTHS Golf Cart</title>
-		<link>http://localhost:1313/blog/</link>
+		<link>https://golfcart.sunkrobotics.com/blog/</link>
 		<description>Recent content in Blog on MVTHS Golf Cart</description>
 		<generator>Hugo</generator>
 		<language>en-US</language>
@@ -14,47 +14,47 @@
 		
 			<lastBuildDate>Wed, 10 Sep 2025 16:17:57 +0800</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://golfcart.sunkrobotics.com/blog/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Hugo Theme Walden</title>
-				<link>http://localhost:1313/blog/hugo-theme-walden/</link>
+				<title>The Story</title>
+				<link>https://golfcart.sunkrobotics.com/blog/the-story/</link>
 				<pubDate>Wed, 10 Sep 2025 16:17:57 +0800</pubDate>
-				<guid>http://localhost:1313/blog/hugo-theme-walden/</guid>
-				<description>&lt;p&gt;After reading &lt;i&gt;&lt;b&gt;Walden&lt;/b&gt;&lt;/i&gt;, a collection of essays by American writer Henry David Thoreau, I was deeply influenced by his love of nature and simple living. So, I wrote this concise and clear theme for my personal website and named it Walden.&lt;/p&gt;</description>
+				<guid>https://golfcart.sunkrobotics.com/blog/the-story/</guid>
+				<description>&lt;p&gt;An ongoing project in the MVTHS Robotics &amp;amp; Engineering shop is this Ford Think Neighbor. Three of these non-functional vehicles were donated to our shop and sat outside for 20+ years. The generational goal has been to make them fully autonomous&amp;hellip;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Shanghai Jiao Tong University Library</title>
-				<link>http://localhost:1313/blog/sample2/</link>
+				<link>https://golfcart.sunkrobotics.com/blog/sample2/</link>
 				<pubDate>Mon, 11 Aug 2025 12:00:15 +0800</pubDate>
-				<guid>http://localhost:1313/blog/sample2/</guid>
+				<guid>https://golfcart.sunkrobotics.com/blog/sample2/</guid>
 				<description>&lt;p&gt;Summary&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Gardenia blooms</title>
-				<link>http://localhost:1313/blog/sample1/</link>
+				<link>https://golfcart.sunkrobotics.com/blog/sample1/</link>
 				<pubDate>Mon, 11 Aug 2025 12:00:10 +0800</pubDate>
-				<guid>http://localhost:1313/blog/sample1/</guid>
+				<guid>https://golfcart.sunkrobotics.com/blog/sample1/</guid>
 				<description>&lt;p&gt;Summary&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>安娜普尔纳 ABC 九日</title>
-				<link>http://localhost:1313/blog/nepal-trekking-abc.zh/</link>
+				<link>https://golfcart.sunkrobotics.com/blog/nepal-trekking-abc.zh/</link>
 				<pubDate>Mon, 29 Jul 2024 21:58:50 +0800</pubDate>
-				<guid>http://localhost:1313/blog/nepal-trekking-abc.zh/</guid>
+				<guid>https://golfcart.sunkrobotics.com/blog/nepal-trekking-abc.zh/</guid>
 				<description>&lt;p&gt;安娜普尔纳（Annapurana）地区位于尼泊尔北部的喜马拉雅山中段，有两条成熟且知名的徒步线路：一条去往安娜普尔纳大本营ABC（Annapurna Base Camp），另一条围绕着安娜普尔纳群峰行进的环线ACT（Annapurna Circle Trail）。&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>王羲之 - 《上虞帖》</title>
-				<link>http://localhost:1313/blog/wang-xizhi-shangyu-calligraphy.zh/</link>
+				<link>https://golfcart.sunkrobotics.com/blog/wang-xizhi-shangyu-calligraphy.zh/</link>
 				<pubDate>Sat, 02 Mar 2024 12:26:01 +0800</pubDate>
-				<guid>http://localhost:1313/blog/wang-xizhi-shangyu-calligraphy.zh/</guid>
+				<guid>https://golfcart.sunkrobotics.com/blog/wang-xizhi-shangyu-calligraphy.zh/</guid>
 				<description>&lt;p&gt;《上虞帖》又名《夜来腹痛帖》，是东晋著名书法家王羲之用草书写给亲友的一则简扎，说明未得见面之原因及其他亲友的近况。纸本、草书、纵23.5厘米、横26 厘米，七行共五十八字，现收藏于上海博物馆，属镇馆之宝。&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>博客</title>
-				<link>http://localhost:1313/blog/_index.zh/</link>
+				<link>https://golfcart.sunkrobotics.com/blog/_index.zh/</link>
 				<pubDate>Sun, 01 Jan 2023 08:30:00 -0700</pubDate>
-				<guid>http://localhost:1313/blog/_index.zh/</guid>
+				<guid>https://golfcart.sunkrobotics.com/blog/_index.zh/</guid>
 				<description>&lt;p&gt;Tempor est exercitation ad qui pariatur quis adipisicing aliquip nisi ea consequat ipsum occaecat. Nostrud consequat ullamco laboris fugiat esse esse adipisicing velit laborum ipsum incididunt ut enim. Dolor pariatur nulla quis fugiat dolore excepteur. Aliquip ad quis aliqua enim do consequat.&lt;/p&gt;</description>
 			</item>
 	</channel>
