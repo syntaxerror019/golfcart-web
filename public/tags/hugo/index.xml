@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Hugo on MVTHS Golf Cart</title>
+		<link>http://localhost:1313/tags/hugo/</link>
+		<description>Recent content in Hugo on MVTHS Golf Cart</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+			<copyright>All rights reserved</copyright>
+		
+		
+			<lastBuildDate>Wed, 10 Sep 2025 16:17:57 +0800</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Hugo Theme Walden</title>
+				<link>http://localhost:1313/blog/hugo-theme-walden/</link>
+				<pubDate>Wed, 10 Sep 2025 16:17:57 +0800</pubDate>
+				<guid>http://localhost:1313/blog/hugo-theme-walden/</guid>
+				<description>&lt;p&gt;After reading &lt;i&gt;&lt;b&gt;Walden&lt;/b&gt;&lt;/i&gt;, a collection of essays by American writer Henry David Thoreau, I was deeply influenced by his love of nature and simple living. So, I wrote this concise and clear theme for my personal website and named it Walden.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Shanghai Jiao Tong University Library</title>
+				<link>http://localhost:1313/blog/sample2/</link>
+				<pubDate>Mon, 11 Aug 2025 12:00:15 +0800</pubDate>
+				<guid>http://localhost:1313/blog/sample2/</guid>
+				<description>&lt;p&gt;Summary&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Gardenia blooms</title>
+				<link>http://localhost:1313/blog/sample1/</link>
+				<pubDate>Mon, 11 Aug 2025 12:00:10 +0800</pubDate>
+				<guid>http://localhost:1313/blog/sample1/</guid>
+				<description>&lt;p&gt;Summary&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

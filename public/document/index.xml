@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Hugo Theme Walden on MVTHS Golf Cart</title>
+		<link>http://localhost:1313/document/</link>
+		<description>Recent content in Hugo Theme Walden on MVTHS Golf Cart</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+			<copyright>All rights reserved</copyright>
+		
+		
+			<lastBuildDate>Wed, 03 Sep 2025 14:31:20 +0800</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/document/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Quick Start</title>
+				<link>http://localhost:1313/document/quick-start/</link>
+				<pubDate>Wed, 03 Sep 2025 14:31:20 +0800</pubDate>
+				<guid>http://localhost:1313/document/quick-start/</guid>
+				<description>&lt;h2 id=&#34;quick-start&#34;&gt;Quick start&lt;/h2&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;https://gohugo.io/installation/&#34;&gt;Hugo documentation&lt;/a&gt; describes in detail how to install on different operating systems, which will not be repeated here, the operating system related to this article is Ubuntu 22.04 LTS.&lt;/p&gt;&#xA;&lt;p&gt;Create the website root directory &lt;mark&gt;mysite&lt;/mark&gt; and perform git initialization, then install the theme as a module to the &lt;mark&gt;mysite/themes&lt;/mark&gt;, and copy all the files in the &lt;mark&gt;exampleSite&lt;/mark&gt; in theme directory to the root directory of the website.&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;mkdir mysite&#xA;cd mysite&#xA;git init&#xA;git branch -m main&#xA;mkdir themes&#xA;git submodule add git@github.com:Homecat805/hugo-theme-walden.git themes/hugo-theme-walden&#xA;cp -rf themes/hugo-theme-walden/exampleSite/* ./&#xA;hugo server&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
+			</item>
+	</channel>
+</rss>

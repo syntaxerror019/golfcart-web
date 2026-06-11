@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>笔记 on 瓦尔登湖</title>
+		<link>http://localhost:1313/zh/document/</link>
+		<description>Recent content in 笔记 on 瓦尔登湖</description>
+		<generator>Hugo</generator>
+		<language>zh-Hans-CN</language>
+		
+		
+		
+			<copyright>版权所有</copyright>
+		
+		
+			<lastBuildDate>Wed, 03 Sep 2025 14:31:20 +0800</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/zh/document/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Sample</title>
+				<link>http://localhost:1313/zh/document/sample/</link>
+				<pubDate>Wed, 03 Sep 2025 14:31:20 +0800</pubDate>
+				<guid>http://localhost:1313/zh/document/sample/</guid>
+				<description>&lt;p&gt;Id deserunt eu nostrud aute sit ipsum. Deserunt esse cillum Lorem non magna adipisicing mollit amet consequat.Aliqua qui id do esse sunt eiusmod id deserunt eu nostrud aute sit ipsum. Deserunt esse cillum Lorem non magna adipisicing mollit amet consequat.Aliqua qui id do esse sunt eiusmod id deserunt eu nostrud aute sit ipsum. Deserunt esse cillum Lorem non magna adipisicing mollit amet consequat.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
