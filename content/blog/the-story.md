@@ -15,8 +15,6 @@ An ongoing project in the MVTHS Robotics & Engineering shop is this Ford Think N
 
 <!--more-->
 
-https://docs.google.com/document/d/1i9UT-0GyQZJYcvtjYTlH-RRsghktPETDnpuf9Dpi2Gk/edit?usp=sharing
-
 ![image](https://assets.sunkrobotics.com/static/golfcart.sunkrobotics.com/head2.png "The Golf Cart")
 
 This is a project that has been passed down through the generations, starting off with Roman Rice, then to Benjamin Wirz and Tanzerul Azam, and now with Jonas Wirz and Miles Hilliard. 

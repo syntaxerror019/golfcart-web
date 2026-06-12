@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Brakes on MVTHS Golf Cart</title>
+		<link>https://golfcart.sunkrobotics.com/tags/brakes/</link>
+		<description>Recent content in Brakes on MVTHS Golf Cart</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+			<copyright>All rights reserved</copyright>
+		
+		
+			<lastBuildDate>Mon, 11 Aug 2025 12:00:10 +0800</lastBuildDate>
+		
+			<atom:link href="https://golfcart.sunkrobotics.com/tags/brakes/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Automation of The Brakes</title>
+				<link>https://golfcart.sunkrobotics.com/blog/brakes/</link>
+				<pubDate>Mon, 11 Aug 2025 12:00:10 +0800</pubDate>
+				<guid>https://golfcart.sunkrobotics.com/blog/brakes/</guid>
+				<description>&lt;p&gt;The hydraulic brakes on the golf cart are harder to interact with electronically. Our strategy includes using a linear actator to move the pedal manually.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

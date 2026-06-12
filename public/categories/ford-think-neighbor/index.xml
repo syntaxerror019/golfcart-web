@@ -30,6 +30,13 @@
 				<description>&lt;p&gt;Our addition of a high torque motor to the steering rack changed our approach to the project significantly. It allowed us to explore thep possibilities of software controlled steering via code and AI.&lt;/p&gt;</description>
 			</item>
 			<item>
+				<title>The Automation of The Brakes</title>
+				<link>https://golfcart.sunkrobotics.com/blog/brakes/</link>
+				<pubDate>Mon, 11 Aug 2025 12:00:10 +0800</pubDate>
+				<guid>https://golfcart.sunkrobotics.com/blog/brakes/</guid>
+				<description>&lt;p&gt;The hydraulic brakes on the golf cart are harder to interact with electronically. Our strategy includes using a linear actator to move the pedal manually.&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>The Endeavor for Better Batteries</title>
 				<link>https://golfcart.sunkrobotics.com/blog/batteries/</link>
 				<pubDate>Mon, 11 Aug 2025 12:00:10 +0800</pubDate>

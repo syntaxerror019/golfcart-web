@@ -18,7 +18,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Anonymous+Pro&display=swap" rel="stylesheet">
 
 
-<title>Footnotes | MVTHS Golf Cart</title>
+<title>Gallery | MVTHS Golf Cart</title>
 
 
 
@@ -163,7 +163,7 @@
         
             <li class="menu-tree-item">
             
-                <a class="active" href="https://golfcart.sunkrobotics.com/document/markdown/footnotes/">Footnotes</a>
+                <a href="https://golfcart.sunkrobotics.com/document/markdown/footnotes/">Footnotes</a>
             
             </li>
         
@@ -252,7 +252,7 @@
         
             <li class="menu-tree-item">
             
-                <a href="https://golfcart.sunkrobotics.com/document/shortcodes/gallery/">Gallery</a>
+                <a class="active" href="https://golfcart.sunkrobotics.com/document/shortcodes/gallery/">Gallery</a>
             
             </li>
         
@@ -291,43 +291,46 @@
     <li class="breadcrumb-item">Hugo Theme Walden</li>
 
     
-    <li class="breadcrumb-item">Markdown</li>
+    <li class="breadcrumb-item">Shortcodes</li>
 
     
-    <li class="breadcrumb-item">Footnotes</li>
+    <li class="breadcrumb-item">Gallery</li>
 
 </ol>
 
         
             <article class="page">
-    <div class="title"><h2>Footnotes</h2></div>
+    <div class="title"><h2>Gallery</h2></div>
     <div class="meta">
         <span>
             <i class="bi bi-calendar3"></i>
-            Jul 20, 2023
+            Jun 12, 2026
         </span>
         <span>
             <i class="bi bi-person-circle"></i>
             
-                Homecat
+                GitHub Copilot
             
         </span>
     </div>
 
     <div class="markdown">
-        <div><p>When I wrote the following pages, or rather the bulk of them, I lived alone, in the woods, a mile from any neighbor, in a house which I had built myself, on the shore of Walden Pond, in Concord, Massachusetts, and earned my living by the labor of my hands only.<cite><sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></cite>I lived there two years and two months. At present I am a sojourner in civilized life again.<cite><sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></cite></p>
-<div class="footnotes" role="doc-endnotes">
-<hr>
-<ol>
-<li id="fn:1">
-<p>Thoreau wrote the first draft of Walden at the pond, but continued to work on the book for several more years. Irish laborers for the Fitchburg Railroad lived in shanties that were closer than a mile, but Thoreau did not considered them neighbors, because they moved soon after after the completion of the railroad.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-<li id="fn:2">
-<p>E.B.White &ldquo;borrowed&rdquo; this from Thoreau, writing &ldquo;At present I am a sojourner in the city again,&rdquo; in his &ldquo;A Report in Spring&rdquo; essay.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-</ol>
-</div>
-</div>
+        <div><h2 id="syntax">Syntax</h2>
+<p>Use the <code>gallery</code> shortcode with a comma-separated list of image URLs, or provide one URL per line inside the shortcode body.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-markdown" data-lang="markdown"><span style="display:flex;"><span>{{&lt; gallery images=&#34;https://example.com/image1.jpg, https://example.com/image2.jpg, https://example.com/image3.jpg&#34; &gt;}}
+</span></span></code></pre></div><p>or</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-markdown" data-lang="markdown"><span style="display:flex;"><span>{{&lt; gallery &gt;}}
+</span></span><span style="display:flex;"><span>https://example.com/image1.jpg
+</span></span><span style="display:flex;"><span>https://example.com/image2.jpg
+</span></span><span style="display:flex;"><span>https://example.com/image3.jpg
+</span></span><span style="display:flex;"><span>{{&lt; /gallery &gt;}}
+</span></span></code></pre></div><h2 id="render-style">Render Style</h2>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-markdown" data-lang="markdown"><span style="display:flex;"><span>{{&lt; gallery &gt;}}
+</span></span><span style="display:flex;"><span>https://pic.imgdb.cn/item/63beb6b5be43e0d30e3aa660.jpg
+</span></span><span style="display:flex;"><span>https://pic.imgdb.cn/item/63beb6b5be43e0d30e3aa671.jpg
+</span></span><span style="display:flex;"><span>https://pic.imgdb.cn/item/63beb6b5be43e0d30e3aa684.jpg
+</span></span><span style="display:flex;"><span>{{&lt; /gallery &gt;}}
+</span></span></code></pre></div></div>
     </div>
 </article>
             
@@ -342,7 +345,12 @@
         <div class="card">
     <div class="card-title">TABLE OF CONTENT</div>
     <div class="card-content">
-        <nav id="TableOfContents"></nav>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#syntax">Syntax</a></li>
+    <li><a href="#render-style">Render Style</a></li>
+  </ul>
+</nav>
     </div>
 </div>
 
