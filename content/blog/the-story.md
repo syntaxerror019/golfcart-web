@@ -15,12 +15,8 @@ An ongoing project in the MVTHS Robotics & Engineering shop is this Ford Think N
 
 <!--more-->
 
-Hugo is the world’s fastest framework for building websites and one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again. 
+This is a project that has been passed down through the generations, starting off with Roman Rice, then to Benjamin Wirz and Tanzerul Azam, and now with Jonas Wirz and Miles Hilliard. 
 
-In directory structure of Hugo, the content and theme are separated. The Hugo community provides many themes written by its members for free use. Of course, you can also write a unique theme for yourself.   
+Roman took the broken golf cart and replaced the motor driver and other important features and was able to bring the car back to life. Without his effort this project would not be where it is. When Ben and Tanzerul had the project, they focused on implementing mechanical systems to help control the steering and brake system while also setting up the later generations with a very neat and organized electronic system. 
 
-Walden is a responsive theme with good adaptability on both mobile phones and desktops, the design of distinctive shortcodes enhances the presentation of content. Walden is still multilingual, the website in different language is independent.
-
-Although <i><b>Walden</b></i> is a theme I wrote for my personal website, I also hope you can enjoy and use it, and sharing should become a virtue for everyone. 
-
-If you wish to use this theme but it does not meet your needs, you can contact me and I am willing to make modifications for you.
+Now at the hands of Jonas and Miles, they are working to implement AI into controlling steering, brakes, and accelerator, after their intense work of revamping the whole entire battery system.
