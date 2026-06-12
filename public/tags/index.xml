@@ -22,5 +22,26 @@
 				<guid>https://golfcart.sunkrobotics.com/tags/hugo/</guid>
 				<description></description>
 			</item>
+			<item>
+				<title>Battery</title>
+				<link>https://golfcart.sunkrobotics.com/tags/battery/</link>
+				<pubDate>Mon, 11 Aug 2025 12:00:10 +0800</pubDate>
+				<guid>https://golfcart.sunkrobotics.com/tags/battery/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Bms</title>
+				<link>https://golfcart.sunkrobotics.com/tags/bms/</link>
+				<pubDate>Mon, 11 Aug 2025 12:00:10 +0800</pubDate>
+				<guid>https://golfcart.sunkrobotics.com/tags/bms/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Lifepo4</title>
+				<link>https://golfcart.sunkrobotics.com/tags/lifepo4/</link>
+				<pubDate>Mon, 11 Aug 2025 12:00:10 +0800</pubDate>
+				<guid>https://golfcart.sunkrobotics.com/tags/lifepo4/</guid>
+				<description></description>
+			</item>
 	</channel>
 </rss>
