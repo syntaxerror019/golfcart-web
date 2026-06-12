@@ -23,11 +23,18 @@
 				<description>&lt;p&gt;An ongoing project in the MVTHS Robotics &amp;amp; Engineering shop is this Ford Think Neighbor. Three of these non-functional vehicles were donated to our shop and sat outside for 20+ years. The generational goal has been to make them fully autonomous&amp;hellip;&lt;/p&gt;</description>
 			</item>
 			<item>
+				<title>Automated Steering System</title>
+				<link>https://golfcart.sunkrobotics.com/blog/steering/</link>
+				<pubDate>Mon, 11 Aug 2025 12:00:15 +0800</pubDate>
+				<guid>https://golfcart.sunkrobotics.com/blog/steering/</guid>
+				<description>&lt;p&gt;Our addition of a high torque motor to the steering rack changed our approach to the project significantly. It allowed us to explore thep possibilities of software controlled steering via code and AI.&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>The Endeavor for Better Batteries</title>
 				<link>https://golfcart.sunkrobotics.com/blog/batteries/</link>
 				<pubDate>Mon, 11 Aug 2025 12:00:10 +0800</pubDate>
 				<guid>https://golfcart.sunkrobotics.com/blog/batteries/</guid>
-				<description>&lt;p&gt;&lt;strong&gt;Throughout our time working with this vehicle, the Ford Think Neighbor has seen several iterations of power sources.&lt;/strong&gt; Starting from lead acid batteries, we have since moved to LiFePO4 batteries. We currently stand with a custom-built 24 cell battery pack that provides the golf cart with 72V.&lt;/p&gt;</description>
+				<description>&lt;p&gt;Throughout our time working with this vehicle, the Ford Think Neighbor has seen several iterations of power sources. Starting from lead acid batteries, we have since moved to LiFePO4 batteries.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
