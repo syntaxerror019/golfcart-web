@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Headline on MVTHS Golf Cart</title>
-		<link>https://golfcart.sunkrobotics.com/series/headline/</link>
+		<link>http://localhost:1313/series/headline/</link>
 		<description>Recent content in Headline on MVTHS Golf Cart</description>
 		<generator>Hugo</generator>
 		<language>en-US</language>
@@ -14,26 +14,26 @@
 		
 			<lastBuildDate>Wed, 10 Sep 2025 16:17:57 +0800</lastBuildDate>
 		
-			<atom:link href="https://golfcart.sunkrobotics.com/series/headline/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/series/headline/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>The Story</title>
-				<link>https://golfcart.sunkrobotics.com/blog/the-story/</link>
+				<link>http://localhost:1313/blog/the-story/</link>
 				<pubDate>Wed, 10 Sep 2025 16:17:57 +0800</pubDate>
-				<guid>https://golfcart.sunkrobotics.com/blog/the-story/</guid>
+				<guid>http://localhost:1313/blog/the-story/</guid>
 				<description>&lt;p&gt;An ongoing project in the MVTHS Robotics &amp;amp; Engineering shop is this Ford Think Neighbor. Three of these non-functional vehicles were donated to our shop and sat outside for 20+ years. The generational goal has been to make them fully autonomous&amp;hellip;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Shanghai Jiao Tong University Library</title>
-				<link>https://golfcart.sunkrobotics.com/blog/sample2/</link>
+				<link>http://localhost:1313/blog/sample2/</link>
 				<pubDate>Mon, 11 Aug 2025 12:00:15 +0800</pubDate>
-				<guid>https://golfcart.sunkrobotics.com/blog/sample2/</guid>
+				<guid>http://localhost:1313/blog/sample2/</guid>
 				<description>&lt;p&gt;Summary&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Gardenia blooms</title>
-				<link>https://golfcart.sunkrobotics.com/blog/sample1/</link>
+				<link>http://localhost:1313/blog/sample1/</link>
 				<pubDate>Mon, 11 Aug 2025 12:00:10 +0800</pubDate>
-				<guid>https://golfcart.sunkrobotics.com/blog/sample1/</guid>
+				<guid>http://localhost:1313/blog/sample1/</guid>
 				<description>&lt;p&gt;Summary&lt;/p&gt;</description>
 			</item>
 	</channel>
