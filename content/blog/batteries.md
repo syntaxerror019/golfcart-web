@@ -11,7 +11,7 @@ series = 'headline'
     headline = ''
 +++
 
-**Throughout our time working with this vehicle, the Ford Think Neighbor has seen several iterations of power sources.** Starting from lead acid batteries, we have since moved to LiFePO4 batteries. We currently stand with a custom-built 24 cell battery pack that provides the golf cart with 72V.
+Throughout our time working with this vehicle, the Ford Think Neighbor has seen several iterations of power sources. Starting from lead acid batteries, we have since moved to LiFePO4 batteries. We currently stand with a custom-built 24 cell battery pack that provides the golf cart with 72V.
 
 <!--more-->
 
