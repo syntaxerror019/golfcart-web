@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Lifepo4 on MVTHS Golf Cart</title>
-		<link>http://localhost:1313/tags/lifepo4/</link>
+		<link>https://golfcart.sunkrobotics.com/tags/lifepo4/</link>
 		<description>Recent content in Lifepo4 on MVTHS Golf Cart</description>
 		<generator>Hugo</generator>
 		<language>en-US</language>
@@ -14,12 +14,12 @@
 		
 			<lastBuildDate>Mon, 11 Aug 2025 12:00:10 +0800</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/lifepo4/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://golfcart.sunkrobotics.com/tags/lifepo4/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>The Endeavor for Better Batteries</title>
-				<link>http://localhost:1313/blog/batteries/</link>
+				<link>https://golfcart.sunkrobotics.com/blog/batteries/</link>
 				<pubDate>Mon, 11 Aug 2025 12:00:10 +0800</pubDate>
-				<guid>http://localhost:1313/blog/batteries/</guid>
+				<guid>https://golfcart.sunkrobotics.com/blog/batteries/</guid>
 				<description>&lt;p&gt;Throughout our time working with this vehicle, the Ford Think Neighbor has seen several iterations of power sources. Starting from lead acid batteries, we have since moved to LiFePO4 batteries.&lt;/p&gt;</description>
 			</item>
 	</channel>

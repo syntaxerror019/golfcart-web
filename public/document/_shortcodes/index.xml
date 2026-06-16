@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Shortcodes on MVTHS Golf Cart</title>
-		<link>http://localhost:1313/document/_shortcodes/</link>
+		<link>https://golfcart.sunkrobotics.com/document/_shortcodes/</link>
 		<description>Recent content in Shortcodes on MVTHS Golf Cart</description>
 		<generator>Hugo</generator>
 		<language>en-US</language>
@@ -14,19 +14,19 @@
 		
 			<lastBuildDate>Fri, 12 Jun 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/document/_shortcodes/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://golfcart.sunkrobotics.com/document/_shortcodes/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Figure</title>
-				<link>http://localhost:1313/document/_shortcodes/figure/</link>
+				<link>https://golfcart.sunkrobotics.com/document/_shortcodes/figure/</link>
 				<pubDate>Mon, 17 Jun 2024 18:48:43 +0800</pubDate>
-				<guid>http://localhost:1313/document/_shortcodes/figure/</guid>
+				<guid>https://golfcart.sunkrobotics.com/document/_shortcodes/figure/</guid>
 				<description>&lt;h2 id=&#34;syntax&#34;&gt;Syntax&lt;/h2&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{&amp;lt; figure src=&amp;#34;https://pic.imgdb.cn/item/63beb6b5be43e0d30e3aa660.jpg&amp;#34; title=&amp;#34;人与峡谷。 ©Homecat&amp;#34; &amp;gt;}}&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;render-style&#34;&gt;Render Style&lt;/h2&gt;&#xA;&lt;figure&gt;&#xA;    &lt;img src=&#34;https://pic.imgdb.cn/item/63beb6b5be43e0d30e3aa660.jpg&#34;&gt;&#xA;    &lt;figcaption&gt;人与峡谷。 ©Homecat&lt;/figcaption&gt;&#xA;&lt;/figure&gt;</description>
 			</item>
 			<item>
 				<title>Gallery</title>
-				<link>http://localhost:1313/document/_shortcodes/gallery/</link>
+				<link>https://golfcart.sunkrobotics.com/document/_shortcodes/gallery/</link>
 				<pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/document/_shortcodes/gallery/</guid>
+				<guid>https://golfcart.sunkrobotics.com/document/_shortcodes/gallery/</guid>
 				<description>&lt;h2 id=&#34;syntax&#34;&gt;Syntax&lt;/h2&gt;&#xA;&lt;p&gt;Use the &lt;code&gt;gallery&lt;/code&gt; shortcode with a comma-separated list of image URLs, or provide one URL per line inside the shortcode body.&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{&amp;lt; gallery images=&amp;#34;https://example.com/image1.jpg, https://example.com/image2.jpg, https://example.com/image3.jpg&amp;#34; &amp;gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;or&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{&amp;lt; gallery &amp;gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;https://example.com/image1.jpg&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;https://example.com/image2.jpg&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;https://example.com/image3.jpg&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{&amp;lt; /gallery &amp;gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;render-style&#34;&gt;Render Style&lt;/h2&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{&amp;lt; gallery &amp;gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;https://pic.imgdb.cn/item/63beb6b5be43e0d30e3aa660.jpg&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;https://pic.imgdb.cn/item/63beb6b5be43e0d30e3aa671.jpg&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;https://pic.imgdb.cn/item/63beb6b5be43e0d30e3aa684.jpg&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{&amp;lt; /gallery &amp;gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
 			</item>
 	</channel>
