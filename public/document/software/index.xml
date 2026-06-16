@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Software on MVTHS Golf Cart</title>
-		<link>https://golfcart.sunkrobotics.com/document/software/</link>
+		<link>http://localhost:1313/document/software/</link>
 		<description>Recent content in Software on MVTHS Golf Cart</description>
 		<generator>Hugo</generator>
 		<language>en-US</language>
@@ -14,12 +14,12 @@
 		
 			<lastBuildDate>Thu, 20 Jul 2023 05:16:58 +0000</lastBuildDate>
 		
-			<atom:link href="https://golfcart.sunkrobotics.com/document/software/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/document/software/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>software for code</title>
-				<link>https://golfcart.sunkrobotics.com/document/software/golf-cart/</link>
+				<link>http://localhost:1313/document/software/golf-cart/</link>
 				<pubDate>Thu, 20 Jul 2023 05:16:58 +0000</pubDate>
-				<guid>https://golfcart.sunkrobotics.com/document/software/golf-cart/</guid>
+				<guid>http://localhost:1313/document/software/golf-cart/</guid>
 				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;When I wrote the following pages, or rather the bulk of them, I lived alone, in the woods, a mile from any neighbor, in a house which I had built myself, on the shore of Walden Pond, in Concord, Massachusetts, and earned my living by the labor of my hands only. I lived there two years and two months. At present I am a sojourner in civilized life again.&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
 			</item>
 	</channel>

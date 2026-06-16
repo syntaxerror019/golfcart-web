@@ -1,24 +1,55 @@
 +++
 date = '2025-08-11T12:00:15+08:00'
-draft = true
-title = 'Automated Steering System'
+draft = false
+title = 'Driving with AI'
 categories = 'Ford Think Neighbor'
-tags =['steering']
+tags =['ai']
 series = 'headline'
 [params]
     author = 'Miles Hilliard & Jonas Wirz'
-    thumbnail = 'https://assets.sunkrobotics.com/static/golfcart.sunkrobotics.com/steering/gears.png'
+    thumbnail = 'https://assets.sunkrobotics.com/static/golfcart.sunkrobotics.com/YOLOModelCamera/train_batch0.jpg'
     headline = ''
 +++
 
-Our addition of a high torque motor to the steering rack changed our approach to the project significantly. It allowed us to explore thep possibilities of software controlled steering via code and AI.
+We are experimenting with a few different approaches to autonomous driving on the Ford Think Neighbor, including YOLO (Computer Vision), SLAM (Simultaneous Localization and Mapping (LiDAR)), and GPS.
 
 <!--more-->
 
-![Image](https://assets.sunkrobotics.com/static/golfcart.sunkrobotics.com/steering/gears.png "The steering gears")
+To begin with, we took a look at YOLO to see if we could train a custom model to detect important objects around the vehicle. We drove the car around our school campus and collected over 2,000 photos of the car's surroundings. We were sure to include various lighting and environmental conditions in our dataset which would permit a more robust and functional model in the end. The only downside was the fact that we had to “teach” the AI what it would be looking for. This meant that we had to go through and manually label every object in every photo. This was a time consuming process, but we were eventually able to come up with a dataset that we were proud of.
 
-The steering system consists of a motor, two gears, and a chain. One gear is attached to the steering rack and the other is attached to the shaft of the motor. A chain is placed in between the two motors so that when the motor spins, the steering rack does as well. The motor being used is a motor commonly found on dump trucks as it operates the tarp that covers the materials in the back. This motor is controlled by a 43A High Power Motor Driver that is powered by a car battery. 
+To do this, we divided our dataset into chunks and gave them to different people in the shop to do hand labeling. After a few weeks of pretty consistent work, this step was done and it became time to train our custom AI for the first time.
 
-![Image](https://assets.sunkrobotics.com/static/golfcart.sunkrobotics.com/steering/motor.png "The steering motor")
+We then used this annotated dataset to train a custom YOLOv11 model to detect the following objects:
 
+- People
+- Other Vehicles
+- Traffic Signs
+- Pedestrian Crossings
 
+![YOLOv11 TRAINING](https://assets.sunkrobotics.com/static/golfcart.sunkrobotics.com/YOLOModelCamera/train_batch0.jpg)
+
+Once we hand labeled and finished training our model, we tested its accuracy. After much tweaking, we were able to achieve an mAP@0.5 of 64% and an mAP@0.5:0.95 of 39%. Not too bad, but clearly not good enough to safely drive the car autonomously by itself.
+
+Once we had the AI trained, we upgraded the camera to be safer and have better quality. We mounted a camera housing to the top of the golf cart which provides the camera inside protection from the rain and other weather events. 
+
+Driving around with the AI running seemed to yield some promising results...
+
+![Camera on the roof](https://assets.sunkrobotics.com/static/golfcart.sunkrobotics.com/YOLOModelCamera/Camerainstall.webp)
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+            src="https://www.youtube.com/embed/wncYFLaLN_4" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen>
+    </iframe>
+</div>
+
+{{< gallery >}}
+https://assets.sunkrobotics.com/static/golfcart.sunkrobotics.com/YOLOModelCamera/YOLO1.webp
+https://assets.sunkrobotics.com/static/golfcart.sunkrobotics.com/YOLOModelCamera/YOLO2.png
+https://assets.sunkrobotics.com/static/golfcart.sunkrobotics.com/YOLOModelCamera/2.webp
+https://assets.sunkrobotics.com/static/golfcart.sunkrobotics.com/YOLOModelCamera/4.webp
+https://assets.sunkrobotics.com/static/golfcart.sunkrobotics.com/YOLOModelCamera/Cameratube.webp
+https://assets.sunkrobotics.com/static/golfcart.sunkrobotics.com/YOLOModelCamera/CameraHolder1.webp
+{{< /gallery >}}

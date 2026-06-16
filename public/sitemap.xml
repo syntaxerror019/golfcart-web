@@ -2,109 +2,115 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://golfcart.sunkrobotics.com/document/quick-start/</loc>
+    <loc>http://localhost:1313/document/quick-start/</loc>
     <lastmod>2025-09-03T14:31:20+08:00</lastmod>
   </url><url>
-    <loc>https://golfcart.sunkrobotics.com/document/software/</loc>
+    <loc>http://localhost:1313/document/software/</loc>
     <lastmod>2024-07-18T12:43:54+08:00</lastmod>
   </url><url>
-    <loc>https://golfcart.sunkrobotics.com/document/_shortcodes/figure/</loc>
+    <loc>http://localhost:1313/document/_shortcodes/figure/</loc>
     <lastmod>2024-06-17T18:48:43+08:00</lastmod>
   </url><url>
-    <loc>https://golfcart.sunkrobotics.com/document/software/golf-cart/</loc>
+    <loc>http://localhost:1313/document/software/golf-cart/</loc>
     <lastmod>2023-07-20T05:16:58+00:00</lastmod>
   </url><url>
-    <loc>https://golfcart.sunkrobotics.com/document/_markdown/syntax/</loc>
+    <loc>http://localhost:1313/document/_markdown/syntax/</loc>
   </url><url>
-    <loc>https://golfcart.sunkrobotics.com/document/_shortcodes/gallery/</loc>
+    <loc>http://localhost:1313/document/_shortcodes/gallery/</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://golfcart.sunkrobotics.com/document/_markdown/</loc>
+    <loc>http://localhost:1313/document/_markdown/</loc>
     <lastmod>2024-07-18T12:43:41+08:00</lastmod>
   </url><url>
-    <loc>https://golfcart.sunkrobotics.com/document/_markdown/text/</loc>
+    <loc>http://localhost:1313/document/_markdown/text/</loc>
   </url><url>
-    <loc>https://golfcart.sunkrobotics.com/document/</loc>
+    <loc>http://localhost:1313/document/</loc>
     <lastmod>2024-07-18T12:43:54+08:00</lastmod>
   </url><url>
-    <loc>https://golfcart.sunkrobotics.com/document/_shortcodes/</loc>
+    <loc>http://localhost:1313/document/_shortcodes/</loc>
     <lastmod>2024-07-18T12:43:54+08:00</lastmod>
   </url><url>
-    <loc>https://golfcart.sunkrobotics.com/document/_markdown/emphasis/</loc>
+    <loc>http://localhost:1313/document/_markdown/emphasis/</loc>
     <lastmod>2023-07-21T05:16:53+00:00</lastmod>
   </url><url>
-    <loc>https://golfcart.sunkrobotics.com/document/_markdown/blockquotes/</loc>
+    <loc>http://localhost:1313/document/_markdown/blockquotes/</loc>
     <lastmod>2023-07-20T05:16:58+00:00</lastmod>
   </url><url>
-    <loc>https://golfcart.sunkrobotics.com/document/_markdown/code/</loc>
+    <loc>http://localhost:1313/document/_markdown/code/</loc>
     <lastmod>2023-07-20T05:16:58+00:00</lastmod>
   </url><url>
-    <loc>https://golfcart.sunkrobotics.com/document/_markdown/code-block/</loc>
+    <loc>http://localhost:1313/document/_markdown/code-block/</loc>
     <lastmod>2023-07-20T05:16:58+00:00</lastmod>
   </url><url>
-    <loc>https://golfcart.sunkrobotics.com/document/_markdown/footnotes/</loc>
+    <loc>http://localhost:1313/document/_markdown/footnotes/</loc>
     <lastmod>2023-07-20T05:16:53+00:00</lastmod>
   </url><url>
-    <loc>https://golfcart.sunkrobotics.com/document/_markdown/image/</loc>
+    <loc>http://localhost:1313/document/_markdown/image/</loc>
     <lastmod>2023-07-20T05:16:58+00:00</lastmod>
   </url><url>
-    <loc>https://golfcart.sunkrobotics.com/document/_markdown/links/</loc>
+    <loc>http://localhost:1313/document/_markdown/links/</loc>
     <lastmod>2023-07-20T05:16:53+00:00</lastmod>
   </url><url>
-    <loc>https://golfcart.sunkrobotics.com/document/_markdown/lists/</loc>
+    <loc>http://localhost:1313/document/_markdown/lists/</loc>
     <lastmod>2023-07-20T05:16:53+00:00</lastmod>
   </url><url>
-    <loc>https://golfcart.sunkrobotics.com/document/_markdown/table/</loc>
+    <loc>http://localhost:1313/document/_markdown/table/</loc>
     <lastmod>2023-07-20T05:16:53+00:00</lastmod>
   </url><url>
-    <loc>https://golfcart.sunkrobotics.com/document/_markdown/more/</loc>
+    <loc>http://localhost:1313/document/_markdown/more/</loc>
   </url><url>
-    <loc>https://golfcart.sunkrobotics.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://golfcart.sunkrobotics.com/blog/</loc>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2025-09-10T16:17:57+08:00</lastmod>
   </url><url>
-    <loc>https://golfcart.sunkrobotics.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-09-10T16:17:57+08:00</lastmod>
   </url><url>
-    <loc>https://golfcart.sunkrobotics.com/categories/ford-think-neighbor/</loc>
+    <loc>http://localhost:1313/categories/ford-think-neighbor/</loc>
     <lastmod>2025-09-10T16:17:57+08:00</lastmod>
   </url><url>
-    <loc>https://golfcart.sunkrobotics.com/series/headline/</loc>
+    <loc>http://localhost:1313/series/headline/</loc>
     <lastmod>2025-09-10T16:17:57+08:00</lastmod>
   </url><url>
-    <loc>https://golfcart.sunkrobotics.com/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
     <lastmod>2025-09-10T16:17:57+08:00</lastmod>
   </url><url>
-    <loc>https://golfcart.sunkrobotics.com/blog/the-story/</loc>
+    <loc>http://localhost:1313/blog/the-story/</loc>
     <lastmod>2025-09-10T16:17:57+08:00</lastmod>
   </url><url>
-    <loc>https://golfcart.sunkrobotics.com/blog/steering/</loc>
+    <loc>http://localhost:1313/tags/ai/</loc>
     <lastmod>2025-08-11T12:00:15+08:00</lastmod>
   </url><url>
-    <loc>https://golfcart.sunkrobotics.com/tags/steering/</loc>
+    <loc>http://localhost:1313/blog/steering/</loc>
     <lastmod>2025-08-11T12:00:15+08:00</lastmod>
   </url><url>
-    <loc>https://golfcart.sunkrobotics.com/tags/battery/</loc>
+    <loc>http://localhost:1313/blog/ai/</loc>
+    <lastmod>2025-08-11T12:00:15+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/steering/</loc>
+    <lastmod>2025-08-11T12:00:15+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/battery/</loc>
     <lastmod>2025-08-11T12:00:10+08:00</lastmod>
   </url><url>
-    <loc>https://golfcart.sunkrobotics.com/tags/bms/</loc>
+    <loc>http://localhost:1313/tags/bms/</loc>
     <lastmod>2025-08-11T12:00:10+08:00</lastmod>
   </url><url>
-    <loc>https://golfcart.sunkrobotics.com/tags/brakes/</loc>
+    <loc>http://localhost:1313/tags/brakes/</loc>
     <lastmod>2025-08-11T12:00:10+08:00</lastmod>
   </url><url>
-    <loc>https://golfcart.sunkrobotics.com/tags/lifepo4/</loc>
+    <loc>http://localhost:1313/tags/lifepo4/</loc>
     <lastmod>2025-08-11T12:00:10+08:00</lastmod>
   </url><url>
-    <loc>https://golfcart.sunkrobotics.com/blog/brakes/</loc>
+    <loc>http://localhost:1313/blog/brakes/</loc>
     <lastmod>2025-08-11T12:00:10+08:00</lastmod>
   </url><url>
-    <loc>https://golfcart.sunkrobotics.com/blog/batteries/</loc>
+    <loc>http://localhost:1313/blog/batteries/</loc>
     <lastmod>2025-08-11T12:00:10+08:00</lastmod>
   </url><url>
-    <loc>https://golfcart.sunkrobotics.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url>
 </urlset>
