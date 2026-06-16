@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tag on MVTHS Golf Cart</title>
-		<link>https://golfcart.sunkrobotics.com/tags/</link>
+		<link>http://localhost:1313/tags/</link>
 		<description>Recent content in Tag on MVTHS Golf Cart</description>
 		<generator>Hugo</generator>
 		<language>en-US</language>
@@ -14,47 +14,47 @@
 		
 			<lastBuildDate>Mon, 11 Aug 2025 12:00:15 +0800</lastBuildDate>
 		
-			<atom:link href="https://golfcart.sunkrobotics.com/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Ai</title>
-				<link>https://golfcart.sunkrobotics.com/tags/ai/</link>
+				<link>http://localhost:1313/tags/ai/</link>
 				<pubDate>Mon, 11 Aug 2025 12:00:15 +0800</pubDate>
-				<guid>https://golfcart.sunkrobotics.com/tags/ai/</guid>
+				<guid>http://localhost:1313/tags/ai/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Steering</title>
-				<link>https://golfcart.sunkrobotics.com/tags/steering/</link>
+				<link>http://localhost:1313/tags/steering/</link>
 				<pubDate>Mon, 11 Aug 2025 12:00:15 +0800</pubDate>
-				<guid>https://golfcart.sunkrobotics.com/tags/steering/</guid>
+				<guid>http://localhost:1313/tags/steering/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Battery</title>
-				<link>https://golfcart.sunkrobotics.com/tags/battery/</link>
+				<link>http://localhost:1313/tags/battery/</link>
 				<pubDate>Mon, 11 Aug 2025 12:00:10 +0800</pubDate>
-				<guid>https://golfcart.sunkrobotics.com/tags/battery/</guid>
+				<guid>http://localhost:1313/tags/battery/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Bms</title>
-				<link>https://golfcart.sunkrobotics.com/tags/bms/</link>
+				<link>http://localhost:1313/tags/bms/</link>
 				<pubDate>Mon, 11 Aug 2025 12:00:10 +0800</pubDate>
-				<guid>https://golfcart.sunkrobotics.com/tags/bms/</guid>
+				<guid>http://localhost:1313/tags/bms/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Brakes</title>
-				<link>https://golfcart.sunkrobotics.com/tags/brakes/</link>
+				<link>http://localhost:1313/tags/brakes/</link>
 				<pubDate>Mon, 11 Aug 2025 12:00:10 +0800</pubDate>
-				<guid>https://golfcart.sunkrobotics.com/tags/brakes/</guid>
+				<guid>http://localhost:1313/tags/brakes/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Lifepo4</title>
-				<link>https://golfcart.sunkrobotics.com/tags/lifepo4/</link>
+				<link>http://localhost:1313/tags/lifepo4/</link>
 				<pubDate>Mon, 11 Aug 2025 12:00:10 +0800</pubDate>
-				<guid>https://golfcart.sunkrobotics.com/tags/lifepo4/</guid>
+				<guid>http://localhost:1313/tags/lifepo4/</guid>
 				<description></description>
 			</item>
 	</channel>

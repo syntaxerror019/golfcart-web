@@ -53,3 +53,14 @@ https://assets.sunkrobotics.com/static/golfcart.sunkrobotics.com/YOLOModelCamera
 https://assets.sunkrobotics.com/static/golfcart.sunkrobotics.com/YOLOModelCamera/Cameratube.webp
 https://assets.sunkrobotics.com/static/golfcart.sunkrobotics.com/YOLOModelCamera/CameraHolder1.webp
 {{< /gallery >}}
+
+In the following video, the golf cart uses the YOLO model to autonomously track and follow a person standing in front of it:
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+            src="https://assets.sunkrobotics.com/static/golfcart.sunkrobotics.com/YOLOModelCamera/Ai2.mp4" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen>
+    </iframe>
+</div>

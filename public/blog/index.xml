@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Blogs on MVTHS Golf Cart</title>
-		<link>https://golfcart.sunkrobotics.com/blog/</link>
+		<link>http://localhost:1313/blog/</link>
 		<description>Recent content in Blogs on MVTHS Golf Cart</description>
 		<generator>Hugo</generator>
 		<language>en-US</language>
@@ -14,40 +14,40 @@
 		
 			<lastBuildDate>Wed, 10 Sep 2025 16:17:57 +0800</lastBuildDate>
 		
-			<atom:link href="https://golfcart.sunkrobotics.com/blog/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>The Story</title>
-				<link>https://golfcart.sunkrobotics.com/blog/the-story/</link>
+				<link>http://localhost:1313/blog/the-story/</link>
 				<pubDate>Wed, 10 Sep 2025 16:17:57 +0800</pubDate>
-				<guid>https://golfcart.sunkrobotics.com/blog/the-story/</guid>
+				<guid>http://localhost:1313/blog/the-story/</guid>
 				<description>&lt;p&gt;An ongoing project in the MVTHS Robotics &amp;amp; Engineering shop is this Ford Think Neighbor. Three of these non-functional vehicles were donated to our shop and sat outside for 20+ years. The generational goal has been to make them fully autonomous&amp;hellip;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Automated Steering System</title>
-				<link>https://golfcart.sunkrobotics.com/blog/steering/</link>
+				<link>http://localhost:1313/blog/steering/</link>
 				<pubDate>Mon, 11 Aug 2025 12:00:15 +0800</pubDate>
-				<guid>https://golfcart.sunkrobotics.com/blog/steering/</guid>
+				<guid>http://localhost:1313/blog/steering/</guid>
 				<description>&lt;p&gt;Our addition of a high torque motor to the steering rack changed our approach to the project significantly. It allowed us to explore the possibilities of software controlled steering via code and AI.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Driving with AI</title>
-				<link>https://golfcart.sunkrobotics.com/blog/ai/</link>
+				<link>http://localhost:1313/blog/ai/</link>
 				<pubDate>Mon, 11 Aug 2025 12:00:15 +0800</pubDate>
-				<guid>https://golfcart.sunkrobotics.com/blog/ai/</guid>
+				<guid>http://localhost:1313/blog/ai/</guid>
 				<description>&lt;p&gt;We are experimenting with a few different approaches to autonomous driving on the Ford Think Neighbor, including YOLO (Computer Vision), SLAM (Simultaneous Localization and Mapping (LiDAR)), and GPS.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>The Automation of The Brakes</title>
-				<link>https://golfcart.sunkrobotics.com/blog/brakes/</link>
+				<link>http://localhost:1313/blog/brakes/</link>
 				<pubDate>Mon, 11 Aug 2025 12:00:10 +0800</pubDate>
-				<guid>https://golfcart.sunkrobotics.com/blog/brakes/</guid>
+				<guid>http://localhost:1313/blog/brakes/</guid>
 				<description>&lt;p&gt;The hydraulic brakes on the golf cart are harder to interact with electronically. Our strategy includes using a linear actator to move the pedal manually.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>The Endeavor for Better Batteries</title>
-				<link>https://golfcart.sunkrobotics.com/blog/batteries/</link>
+				<link>http://localhost:1313/blog/batteries/</link>
 				<pubDate>Mon, 11 Aug 2025 12:00:10 +0800</pubDate>
-				<guid>https://golfcart.sunkrobotics.com/blog/batteries/</guid>
+				<guid>http://localhost:1313/blog/batteries/</guid>
 				<description>&lt;p&gt;Throughout our time working with this vehicle, the Ford Think Neighbor has seen several iterations of power sources. Starting from lead acid batteries, we have since moved to LiFePO4 batteries.&lt;/p&gt;</description>
 			</item>
 	</channel>

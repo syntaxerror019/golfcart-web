@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Steering on MVTHS Golf Cart</title>
-		<link>https://golfcart.sunkrobotics.com/tags/steering/</link>
+		<link>http://localhost:1313/tags/steering/</link>
 		<description>Recent content in Steering on MVTHS Golf Cart</description>
 		<generator>Hugo</generator>
 		<language>en-US</language>
@@ -14,12 +14,12 @@
 		
 			<lastBuildDate>Mon, 11 Aug 2025 12:00:15 +0800</lastBuildDate>
 		
-			<atom:link href="https://golfcart.sunkrobotics.com/tags/steering/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/steering/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Automated Steering System</title>
-				<link>https://golfcart.sunkrobotics.com/blog/steering/</link>
+				<link>http://localhost:1313/blog/steering/</link>
 				<pubDate>Mon, 11 Aug 2025 12:00:15 +0800</pubDate>
-				<guid>https://golfcart.sunkrobotics.com/blog/steering/</guid>
+				<guid>http://localhost:1313/blog/steering/</guid>
 				<description>&lt;p&gt;Our addition of a high torque motor to the steering rack changed our approach to the project significantly. It allowed us to explore the possibilities of software controlled steering via code and AI.&lt;/p&gt;</description>
 			</item>
 	</channel>
